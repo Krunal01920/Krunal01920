@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as javascript developer<br>🌱 I’m currently learning about build ai agents<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working as web developer<br>🌱 I’m currently learning about build ai agents<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
